@@ -88,6 +88,6 @@ Thanks for visiting my profile! Feel free to reach out if you have any questions
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azim128&label=Profile%20views&color=0e75b6&style=flat" alt="azim128" /> </p>
 
-<p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azim128&row=1&column=2&theme=onedark" alt="azim128" /></a> </p>
+<p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azim128&row=1&column=3&theme=onedark" alt="azim128" /></a> </p>
 
 
