@@ -90,4 +90,4 @@ Thanks for visiting my profile! Feel free to reach out if you have any questions
 
 <p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azim128&row=1&column=5&theme=onedark" alt="azim128" /></a> </p>
 
-
+<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=azim128&theme=dark" alt="GitHub Streak" /></a>
