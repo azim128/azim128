@@ -9,10 +9,9 @@ Welcome to my GitHub profile! I'm a passionate Mechatronics Engineering student 
 
 ## 💼 Experience
 
-**SynCross AI**
-*Software Engineer*
-*Nov 2024 – current*
-
+**SynCross AI**  
+*Software Engineer*  
+*Nov 2024 – current*  
 - Developing and optimizing AI-driven software solutions to enhance performance and scalability
 - Implementing backend APIs and integrating AI models for real-time data processing
 - Collaborating with cross-functional teams to improve system architecture and user experience
