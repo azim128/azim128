@@ -8,9 +8,19 @@ Welcome to my GitHub profile! I'm a passionate Mechatronics Engineering student 
 *Feb. 2019 – May 2024*
 
 ## 💼 Experience
+
+**SynCross AI**
+*Software Engineer*
+*Nov 2024 – current*
+
+- Developing and optimizing AI-driven software solutions to enhance performance and scalability
+- Implementing backend APIs and integrating AI models for real-time data processing
+- Collaborating with cross-functional teams to improve system architecture and user experience
+- Deploying and managing cloud infrastructure using AWS and Docker
+
 **Humufy.AI**  
 *Software Engineer Intern*  
-*March 2024 – current*  
+*March 2024 – Octobar 2024*  
 - Designing and developing APIs as per requirements
 - Deploying software solutions on AWS infrastructure, utilizing services such as EC2, S3, ECR, Lambda
 - Documenting APIs, system architectures, and deployment procedures to facilitate team collaboration and future maintenance
