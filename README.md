@@ -12,10 +12,13 @@ Welcome to my GitHub profile! I'm a passionate Mechatronics Engineering student 
 **Sincos Automation Technologies Ltd**  
 *Software Engineer*  
 *Nov 2024 – current*  
-- Developing and optimizing AI-driven software solutions to enhance performance and scalability
-- Implementing backend APIs and integrating AI models for real-time data processing
-- Collaborating with cross-functional teams to improve system architecture and user experience
-- Deploying and managing cloud infrastructure using AWS and Docker
+- Engineered Angular dashboards for a production execution system (PES), optimizing PostgreSQL queries and improving page load time by 30%.
+- Refined backend Node.js logic to resolve set mismatch issues, significantly reducing error rates and eliminating production halts.
+- Reduced API latency by 40% through selective data fetching via pgRest and query optimization implementation.
+- Built time-partitioned tables for automatic warehouse data updates across hourly, daily, and monthly dimensions.
+- Collaborated with cross-functional teams including software (3 developers), hardware, factory trainers, and business to ensure smooth deployment and client success.
+- Delivered feature diagrams and trained end-users on the factory floor, facilitating adoption and minimizing production disruptions.
+
 
 **Humufy.AI**  
 *Software Engineer Intern*  
