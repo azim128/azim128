@@ -32,6 +32,22 @@ Welcome to my GitHub profile! I'm a passionate Mechatronics Engineering student 
 
 ## 🛠 Projects
 
+### 💼 Jobify
+
+*MERN Stack, Redux, OpenAI API, Cloudinary, Redis, Vercel, Render*
+*May 2024 – Jul 2024*
+
+* Built a role-based job management platform with JWT authentication and role distinction (admin/super-admin)
+* Integrated OpenAI API to generate job descriptions and outreach messages with one-click functionality
+* Optimized MongoDB queries with pagination, filtering, and Redis caching to improve performance and scalability
+* Enabled file uploads (logos, PDFs) using Cloudinary with client/server-side validation
+* Deployed frontend (Vercel) and backend (Render) applications with CI/CD automation
+* **Project documentation:** [Notion SRS](https://oval-sword-5ca.notion.site/SRS-1323c6afeee380ceadfce4f266a90df6)
+* **GitHub:** [github.com/azim128/jobify](https://github.com/azim128/jobify)
+* **API documentation:** [Postman](https://documenter.getpostman.com/view/31589139/2sAY4xB2qG)
+* **Backend URL:** [jobify-iqy3.onrender.com](https://jobify-iqy3.onrender.com)
+* **Frontend URL:** [jobify-34.vercel.app](https://jobify-34.vercel.app/)
+
 ### 🎥 Movie Catalog System
 *GraphQL, Apollo Server, REST API, Authentication*  
 *May 2024*  
