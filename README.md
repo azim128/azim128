@@ -1,6 +1,6 @@
 # Hi there, I'm Azim Miah! 👋
 
-Welcome to my GitHub profile! I'm a passionate Mechatronics Engineering student at Rajshahi University of Engineering & Technology, with hands-on experience in software development, particularly in frontend and backend technologies. Below you'll find a summary of my education, experience, and projects.
+Welcome to my GitHub profile! I am a software engineer currently studying Mechatronics Engineering at Rajshahi University of Engineering & Technology. I have hands-on experience in software development, especially in frontend and backend technologies. Below you'll find a summary of my education, experience, and projects.
 
 ## 📚 Education
 **Rajshahi University of Engineering & Technology**  
