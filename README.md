@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate Mechatronics Engineering student 
 
 ## 💼 Experience
 
-**SynCross AI**  
+**Sincos Automation Technologies Ltd**  
 *Software Engineer*  
 *Nov 2024 – current*  
 - Developing and optimizing AI-driven software solutions to enhance performance and scalability
